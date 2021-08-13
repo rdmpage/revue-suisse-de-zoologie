@@ -20,3 +20,7 @@ Old interface http://direct.biostor.org/issn/0035-418X shows coverage, RIS file 
 
 ### CrossRef
 
+Articles with CrossRef DOIs.
+
+### BHL parts (to do)
+
