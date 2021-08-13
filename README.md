@@ -4,7 +4,7 @@ Metadata (incl. DOIs) for articles in the journal *Revue Suisse de Zoologie*.
 
 ## Sources
 
-### PDF list
+### PDF list of contents
 
 Table of contents 1893 - 2010 as PDF (source unknown). Converted to text and edited.
 
@@ -13,6 +13,10 @@ Table of contents 1893 - 2010 as PDF (source unknown). Converted to text and edi
 ### Zenodo
 
 Use API to retrieve records with Zenodo DOIs
+
+### BioStor
+
+Old interface http://direct.biostor.org/issn/0035-418X shows coverage, RIS file can be downloaded http://direct.biostor.org/issn/0035-418X.ris
 
 ### CrossRef
 
